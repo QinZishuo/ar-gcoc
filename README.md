@@ -18,7 +18,7 @@ The meaning of the configuration file name, from top to bottom corresponds to th
 3.==============================  
 -OC: overclocking  
 -UC: underclocking  
--BC: baseclocking  
+-BC/Baseclocking: baseclocking  
 4.=============================  
 -Dev:  Dev Version  | Dev version, the most unstable version. Use this version to report problems to developers and propose solutions if you have any. Once the fix is ​​complete, it will be converted to Beta version. This version file name usually carries the build date at the end.
 -Beta: Beta Version | The test version after the Dev version is more stable than the Dev version, but not as stable as the official version.  
