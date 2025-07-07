@@ -24,3 +24,20 @@ The meaning of the configuration file name, from top to bottom corresponds to th
 -Beta: Beta Version | The test version after the Dev version is more stable than the Dev version, but not as stable as the official version.  
 -Release: Releases  | The most stable version.  
 Note that the suffix in each box above can appear at most once, and there can be at most 4 suffixes, corresponding to the file name from left to right from top to bottom.  
+
+github tag meaning:
+1.=============================  
+NP: non-public version  
+P: public version  
+2.=============================  
+dev: dev version  
+beta: beta version  
+release: release version  
+3.=============================  
+version number  
+
+For example: 5700XT_np_dev_v1.0.1
+model: 5700xt
+non-public graphics cards
+dev version
+version: 1.0.1
